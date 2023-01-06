@@ -1,0 +1,28 @@
+
+.verde{
+color: WHITE;
+background-color: green;
+border: 0ch;
+
+
+}
+
+.rojo{
+    color: white;
+    background-color: red;
+    border: 0ch;
+}
+
+.hover {
+	background: #06F;
+	cursor: pointer;
+}
+
+.button{
+    background: url(/home/luis/Cursos/Practico_js/img/bt_register.png) no-repeat left 0;
+    background-position: center;
+	background-size: cover;
+}
+
+
+
